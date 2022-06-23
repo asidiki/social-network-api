@@ -20,4 +20,4 @@ Please view walk through videos to demonstrate the API routes.<br>
 
 
 ## Author
-Ansab Sidiki [Github](https://github.com/nicolewallace09).
+Ansab Sidiki [Github](https://github.com/asidiki).
